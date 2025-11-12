@@ -1,0 +1,11 @@
+﻿Step,Objective,Description
+1,Preprocessing,Load data
+2,Preprocessing,Select polarizations
+3,Preprocessing,Apply orbit file
+4,Preprocessing,Radiometric calibration
+5,Preprocessing,Deburst
+6,Covariance matrix,Matrix generation
+7,Covariance matrix,Multilooking
+8,Covariance matrix,Polarimetric speckle filtering
+9,Slope,Compute gradient
+10,AOI,Specify area of interest
