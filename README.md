@@ -16,3 +16,12 @@ Permitir a los estudiantes adquirir experiencia práctica en el manejo de imáge
   - Setup de un ambiente informático para el procesamiento de datos de Observación de la Tierra (Earth observation, EO) en Python: ambiente, bibliotecas, conjuntos de datos, operaciones básicas.
   - Clasificación de conjuntos de datos de EO mediante algoritmos de Inteligencia Artificial: CNN, UNet, etc.
   - Procesamiento de datos hiperespectrales, clasificación de Zonas Climáticas Locales mediante técnicas de Deep Learning, datos multiespectrales e hiperespectrales.
+
+## Links
+
+- [Notebook del curso](https://github.com/brunomaso1/fing-cpap/blob/tele-hiper-sar/final-project/final-assignment.ipynb)
+
+> [!TIP]
+> Puedes utilizar [NBViewer](https://nbviewer.org/github/brunomaso1/fing-cpap/blob/tele-hiper-sar/final-project/final-assignment.ipynb) para visualizar los notebooks de manera interactiva sin necesidad de ejecutar código localmente.
+
+- [Reporte](https://github.com/brunomaso1/fing-cpap/blob/tele-hiper-sar/final-project/report/report.pdf)
