@@ -10,7 +10,7 @@ Específicamente, este curso pertenece al programa de formación avanzada (Curso
 
 Profesores:
 - Prof. Paolo Gamba (Universidad de Pavía, Italia)
-- PhD. Alessandro Sebastiani (Universidad de Pavía, Italia)
+- PhD. Alessandro Sebastiani (Universidad de Sannio, Italia)
 
 El curso finalizó con una instancia presencial en Pavía (Italia).
 
@@ -62,6 +62,12 @@ Módulos del curso:
     - Quantum Kernel Methods (Practical)
   - QK4EO
   - Course Evaluation
+
+## Proyecto final
+
+El proyecto final consistió en la implementación de un modelo de aprendizaje automático o aprendizaje profundo para resolver un problema puntual, integrando conceptos de los circuitos cuánticos. En este caso, se resolvió un problema de segmentación mediante la utilización de un modelo al estilo UNet pero con un circuito cuántico en el espacio de mayor compresión.
+
+Se puede ver el código completo del proyecto en el siguiente enlace: [Proyecto final](https://github.com/iLavaU/proyecto-grupo-a-qc)
 
 ## Comandos útiles
 
@@ -129,4 +135,16 @@ conda create --name myclone --clone myenv
 ```powershell
 conda config --add channels conda-forge
 conda config --set channel_priority strict
+```
+
+### Git
+
+- Agregar submódulo:
+```powershell
+git submodule add https://github.com/iLavaU/proyecto-grupo-a-qc
+```
+
+- Clonar repositorio con submódulos:
+```powershell
+git clone --recurse-submodules <repository-url>
 ```
